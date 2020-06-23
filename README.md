@@ -1,21 +1,21 @@
 # Competitive-Programming
 
-- ### 2-Pointer Algorithms
+- ### [2-Pointer Algorithms](https://github.com/Omanshu840/Competitive-Programming/tree/master/InterviewBit/2-Pointer-Algo)
 
 - ### [Dynamic Programming](https://github.com/Omanshu840/Competitive-Programming/tree/master/InterviewBit/Dynamic%20Programming)
 
-- ### Greedy Algorithms
+- ### [Greedy Algorithms](https://github.com/Omanshu840/Competitive-Programming/tree/master/InterviewBit/Greedy-Algo)
 
-- ### Hashing
+- ### [Hashing](https://github.com/Omanshu840/Competitive-Programming/tree/master/InterviewBit/Hashing)
 
-- ### Heaps
+- ### [Heaps](https://github.com/Omanshu840/Competitive-Programming/tree/master/InterviewBit/Heaps)
 
-- ### llist-stack-queue
+- ### [llist-stack-queue](https://github.com/Omanshu840/Competitive-Programming/tree/master/InterviewBit/llist-stack-queue)
 
-- ### String manipulation
+- ### [String manipulation](https://github.com/Omanshu840/Competitive-Programming/tree/master/InterviewBit/String-Manipulation)
 
-- ### Bit Manipulation
+- ### [Bit Manipulation](https://github.com/Omanshu840/Competitive-Programming/tree/master/InterviewBit/Bit%20Manipulation)
 
-- ### Back-Tracking
+- ### [Back-Tracking](https://github.com/Omanshu840/Competitive-Programming/tree/master/InterviewBit/Back-Tracking)
 
 
