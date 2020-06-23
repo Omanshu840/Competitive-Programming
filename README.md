@@ -10,6 +10,106 @@
 - [https://www.interviewbit.com/problems/container-with-most-water/](https://www.interviewbit.com/problems/container-with-most-water/)
 - Solution
 
+
+## Dynamic Programming
+
+#### Stairs
+- [https://www.interviewbit.com/problems/stairs/](https://www.interviewbit.com/problems/stairs/)
+- Solution
+
+#### Coin change using min number of coins
+- [https://practice.geeksforgeeks.org/problems/number-of-coins/0](https://practice.geeksforgeeks.org/problems/number-of-coins/0)
+- Solution
+
+#### Longest Increasing Subsequence
+- [https://www.interviewbit.com/problems/longest-increasing-subsequence/](https://www.interviewbit.com/problems/longest-increasing-subsequence/)
+- Solution
+
+#### Min Sum Path In Matrix
+- [https://www.interviewbit.com/problems/min-sum-path-in-matrix/](https://www.interviewbit.com/problems/min-sum-path-in-matrix/)
+- Solution
+
+#### Edit Distance
+- [https://www.interviewbit.com/problems/edit-distance/](https://www.interviewbit.com/problems/edit-distance/)
+- Solution
+
+## Greedy Algorithms
+
+#### Task Scheduling
+- [https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room/0](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room/0)
+- Solution
+
+#### Distribute Candy
+- [https://www.interviewbit.com/problems/distribute-candy/](https://www.interviewbit.com/problems/distribute-candy/)
+- Solution
+
+#### Seats
+- [https://www.interviewbit.com/problems/seats/](https://www.interviewbit.com/problems/seats/)
+- Solution
+
+#### Tushar's Birthday Bombs
+- [https://www.interviewbit.com/problems/tushars-birthday-bombs/](https://www.interviewbit.com/problems/tushars-birthday-bombs/)
+- Solution
+
+## Hashing
+
+#### Points On The Straight Line
+- [https://www.interviewbit.com/problems/points-on-the-straight-line/](https://www.interviewbit.com/problems/points-on-the-straight-line/)
+- Solution
+
+#### Fraction
+- [https://www.interviewbit.com/problems/fraction/](https://www.interviewbit.com/problems/fraction/)
+- Solution
+
+#### Anagrams
+- [https://www.interviewbit.com/problems/anagrams/](https://www.interviewbit.com/problems/anagrams/)
+- Solution
+
+
+## Heaps
+
+#### Magician And Chocolates
+- [https://www.interviewbit.com/problems/magician-and-chocolates/](https://www.interviewbit.com/problems/magician-and-chocolates/)
+- Solution
+
+#### Distinct Numbers In Window
+- [https://www.interviewbit.com/problems/distinct-numbers-in-window/](https://www.interviewbit.com/problems/distinct-numbers-in-window/)
+- Solution
+
+#### N Max Pair Combinations
+- [https://www.interviewbit.com/problems/n-max-pair-combinations/](https://www.interviewbit.com/problems/n-max-pair-combinations/)
+- Solution
+
+## llist-stack-queue
+
+#### Palindrome List
+- [https://www.interviewbit.com/problems/palindrome-list/](https://www.interviewbit.com/problems/palindrome-list/)
+- Solution
+
+#### K Reverse Linked List
+- [https://www.interviewbit.com/problems/k-reverse-linked-list/](https://www.interviewbit.com/problems/k-reverse-linked-list/)
+- Solution
+
+#### Nearest Smaller Element
+- [https://www.interviewbit.com/problems/nearest-smaller-element/](https://www.interviewbit.com/problems/nearest-smaller-element/)
+- Solution
+
+#### Sliding Window Maximum
+- [https://www.interviewbit.com/problems/sliding-window-maximum/](https://www.interviewbit.com/problems/sliding-window-maximum/)
+- Solution
+
+
+## String manipulation
+
+#### Min Char required to make a String Palindromic
+- [https://www.interviewbit.com/problems/minimum-characters-required-to-make-a-string-palindromic/](https://www.interviewbit.com/problems/minimum-characters-required-to-make-a-string-palindromic/)
+- Solution
+
+#### Longest Palindromic Substring
+- [https://www.interviewbit.com/problems/longest-palindromic-substring/](https://www.interviewbit.com/problems/longest-palindromic-substring/)
+- Solution
+
+
 ## Back-Tracking
 
 #### Generating all Posible Subsets of an array
@@ -44,27 +144,4 @@
 
 #### 1329-B CodeForces
  - [https://codeforces.com/problemset/problem/1329/B](https://codeforces.com/problemset/problem/1329/B)
-- Solution
-
-
-## Dynamic Programming
-
-#### Stairs
-- [https://www.interviewbit.com/problems/stairs/](https://www.interviewbit.com/problems/stairs/)
-- Solution
-
-#### Coin change using min number of coins
-- [https://practice.geeksforgeeks.org/problems/number-of-coins/0](https://practice.geeksforgeeks.org/problems/number-of-coins/0)
-- Solution
-
-#### Longest Increasing Subsequence
-- [https://www.interviewbit.com/problems/longest-increasing-subsequence/](https://www.interviewbit.com/problems/longest-increasing-subsequence/)
-- Solution
-
-#### Min Sum Path In Matrix
-- [https://www.interviewbit.com/problems/min-sum-path-in-matrix/](https://www.interviewbit.com/problems/min-sum-path-in-matrix/)
-- Solution
-
-#### Edit Distance
-- [https://www.interviewbit.com/problems/edit-distance/](https://www.interviewbit.com/problems/edit-distance/)
 - Solution
