@@ -8,4 +8,4 @@
 
 #### N Max Pair Combinations
 - [https://www.interviewbit.com/problems/n-max-pair-combinations/](https://www.interviewbit.com/problems/n-max-pair-combinations/)
-- Solution
+- [Solution](https://github.com/Omanshu840/Competitive-Programming/blob/master/InterviewBit/Heaps/nmaxpair.cpp)
