@@ -18,4 +18,8 @@
 - [https://www.interviewbit.com/problems/edit-distance/](https://www.interviewbit.com/problems/edit-distance/)
 - [Solution](https://github.com/Omanshu840/Competitive-Programming/blob/master/InterviewBit/Dynamic%20Programming/editdistance.cpp)
 
+### Smallest Sequence with given Primes 
+- [https://www.interviewbit.com/problems/smallest-sequence-with-given-primes/](https://www.interviewbit.com/problems/smallest-sequence-with-given-primes/)
+- [Solution](https://github.com/Omanshu840/Competitive-Programming/blob/master/InterviewBit/Dynamic%20Programming/smallprime.cpp)
+
 
