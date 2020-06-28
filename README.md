@@ -6,7 +6,7 @@
 
 - ### [Greedy Algorithms](https://github.com/Omanshu840/Competitive-Programming/tree/master/InterviewBit/Greedy-Algo)
 
-- ### Binary Search 
+- ### [Binary Search](https://github.com/Omanshu840/Competitive-Programming/tree/master/InterviewBit/Binary%20Search) 
 
 - ### [Hashing](https://github.com/Omanshu840/Competitive-Programming/tree/master/InterviewBit/Hashing)
 
