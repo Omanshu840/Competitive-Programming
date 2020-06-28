@@ -4,12 +4,12 @@
 
 #### K Reverse Linked List
 - [https://www.interviewbit.com/problems/k-reverse-linked-list/](https://www.interviewbit.com/problems/k-reverse-linked-list/)
-- Solution
+- [Solution](https://github.com/Omanshu840/Competitive-Programming/blob/master/InterviewBit/llist-stack-queue/kreversedlist.cpp)
 
 #### Nearest Smaller Element
 - [https://www.interviewbit.com/problems/nearest-smaller-element/](https://www.interviewbit.com/problems/nearest-smaller-element/)
-- Solution
+- [Solution](https://github.com/Omanshu840/Competitive-Programming/blob/master/InterviewBit/llist-stack-queue/nearsmallele.cpp)
 
 #### Sliding Window Maximum
 - [https://www.interviewbit.com/problems/sliding-window-maximum/](https://www.interviewbit.com/problems/sliding-window-maximum/)
-- Solution
+- [Solution](https://github.com/Omanshu840/Competitive-Programming/blob/master/InterviewBit/llist-stack-queue/slidingwindow.cpp)
