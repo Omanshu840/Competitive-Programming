@@ -13,3 +13,7 @@
 #### Sliding Window Maximum
 - [https://www.interviewbit.com/problems/sliding-window-maximum/](https://www.interviewbit.com/problems/sliding-window-maximum/)
 - [Solution](https://github.com/Omanshu840/Competitive-Programming/blob/master/InterviewBit/llist-stack-queue/slidingwindow.cpp)
+
+ #### Max Value of Equation
+- [https://leetcode.com/contest/weekly-contest-195/problems/max-value-of-equation/](https://leetcode.com/contest/weekly-contest-195/problems/max-value-of-equation/)
+- [Solution](https://github.com/Omanshu840/Competitive-Programming/blob/master/LeetCode/Contest-195/MaxValue.cpp)
