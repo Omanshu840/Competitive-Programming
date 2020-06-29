@@ -20,6 +20,8 @@
 
 - ### [Back-Tracking](https://github.com/Omanshu840/Competitive-Programming/tree/master/InterviewBit/Back-Tracking)
 
+- ### [Trees](https://github.com/Omanshu840/Competitive-Programming/tree/master/InterviewBit/Trees)
+
 - ### [Graphs](https://github.com/Omanshu840/Competitive-Programming/tree/master/InterviewBit/Graphs)
 
 
