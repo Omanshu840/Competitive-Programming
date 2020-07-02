@@ -22,4 +22,11 @@
 - [https://www.interviewbit.com/problems/smallest-sequence-with-given-primes/](https://www.interviewbit.com/problems/smallest-sequence-with-given-primes/)
 - [Solution](https://github.com/Omanshu840/Competitive-Programming/blob/master/InterviewBit/Dynamic%20Programming/smallprime.cpp)
 
+#### Largest Divisible Subset
+- [https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3359/](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3359/)
+- [Solution](https://github.com/Omanshu840/Competitive-Programming/blob/master/LeetCode/June-Challenge/lardivsub.cpp) 
+
+#### Dungeon Game
+- [https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3367/](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3367/)
+- [Solution](https://github.com/Omanshu840/Competitive-Programming/blob/master/LeetCode/June-Challenge/DungeonGame.cpp)
 

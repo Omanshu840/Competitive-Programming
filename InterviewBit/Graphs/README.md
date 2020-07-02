@@ -9,3 +9,7 @@
 #### Black Shapes
 - [https://www.interviewbit.com/problems/black-shapes/](https://www.interviewbit.com/problems/black-shapes/)
 - [Solution](https://github.com/Omanshu840/Competitive-Programming/blob/master/InterviewBit/Graphs/BlackShapes.cpp)
+
+#### Surrounded Regions
+- [https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3363/](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3363/)
+- [Solution](https://github.com/Omanshu840/Competitive-Programming/blob/master/LeetCode/June-Challenge/SurRegions.cpp) 
