@@ -1,0 +1,27 @@
+class Solution {
+public:
+    vector<int> singleNumber(vector<int>& nums) {
+        
+        int axb = 0;
+        
+        for(auto num : nums)
+        {
+            axb ^= num;
+        }
+        
+        int last = axb & (~(axb-1));
+        
+        vector<int> ans(2, 0);
+        
+        for(auto num : nums)
+        {
+            if((last & num)==0)
+                ans[0]^=num;
+            else
+                ans[1]^=num;
+        }
+        
+        return ans;
+        
+    }
+};
