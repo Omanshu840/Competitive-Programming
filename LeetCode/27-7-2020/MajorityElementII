@@ -1,0 +1,61 @@
+class Solution {
+public:
+    vector<int> majorityElement(vector<int>& nums) {
+        
+        int n1 = 0;
+        int n2 = 0;
+        
+        int t1, t2;
+        
+        int n = nums.size();
+        
+        for(auto num : nums)
+        {
+            if(n1!=0 && num==t1)
+            {
+                n1++;
+            }
+            else if(n2!=0 && num==t2)
+            {
+                n2++;
+            }
+            else if(n1==0)
+            {
+                n1 = 1;
+                t1 = num;
+            }
+            else if(n2==0)
+            {
+                n2 = 1;
+                t2 = num;
+            }
+            else
+            {
+                n1--;
+                n2--;
+            }
+        }
+        
+        int c1 = 0, c2 = 0;
+        
+        
+        for(auto num : nums)
+        {
+            if(n1!=0 && num==t1)
+                c1++;
+            if(n2!=0 && num==t2)
+                c2++;
+        }
+        
+        vector<int> ans;
+        
+        if(c1>n/3)
+            ans.push_back(t1);
+        
+        if(c2>n/3)
+            ans.push_back(t2);
+        
+        return ans;
+        
+    }
+};
